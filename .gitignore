@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.astro/
+.DS_Store
+.env
+.env.*
+!.env.example
+.openai/
+assets/
+reference/
+audits/
+marketing/
+preview.html
+scripts/prepare-art.mjs
+public/images/preview-*.webp
+public/images/tooth-hero*.webp
+public/images/doctor-at-work.webp
