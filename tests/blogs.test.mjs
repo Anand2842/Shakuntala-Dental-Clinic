@@ -2,7 +2,8 @@ import {test} from 'node:test';
 import assert from 'node:assert/strict';
 import {readFile,access} from 'node:fs/promises';
 const posts=JSON.parse(await readFile(new URL('../src/content/blogs.json',import.meta.url),'utf8'));
-test('twenty distinct guides resolve to static pages with metadata, artwork and honest review status',async()=>{
+test('twenty distinct guides resolve to static pages with metadata, artwork and approved publication status',async()=>{
+ assert.ok(posts.every(p=>p.reviewed),'All twenty articles are approved for publication');
  assert.equal(posts.length,20);assert.equal(new Set(posts.map(p=>p.slug)).size,20);assert.equal(new Set(posts.map(p=>p.title)).size,20);
  const sitemap=await readFile('dist/sitemap.xml','utf8');
  for(const p of posts){
@@ -16,6 +17,8 @@ test('twenty distinct guides resolve to static pages with metadata, artwork and 
   assert.equal(html.includes('name="robots" content="noindex,follow"'),!p.reviewed);
   assert.equal(sitemap.includes(canonical),p.reviewed);
   const schema=JSON.parse(html.match(/<script type="application\/ld\+json">(.*?)<\/script>/)[1]);
+  assert.ok(!html.includes('Editorial draft') && !html.includes('Clinical review pending'),'No pending-review notices on approved articles');
+  assert.equal(schema.creativeWorkStatus,'Published');
   assert.equal(schema['@type'],'Article');assert.equal(schema.headline,p.title);
   assert.ok(!schema.reviewedBy && !schema.author,'No invented clinician review or byline');
   for(const [,src] of html.matchAll(/\bsrc="(\/[^\"]+)"/g))await access('dist'+src);

@@ -60,7 +60,7 @@ Original image masters, local reference material, private hosting configuration 
 
 1. Configure the final public HTTPS domain in `astro.config.mjs`. Its current preview origin has not been verified as a public production deployment. Upload `dist/` to a static host; the homepage assumes a root-domain deployment rather than a GitHub Pages project subpath.
 2. Confirm the address/postcode, map pin, hours, proposed services, credentials and all clinical content with the clinic. The current map links use an address search.
-3. Have the dentist review the articles. All currently have `reviewed: false`, display draft status, carry `noindex,follow`, and are omitted from the sitemap. Set an article to reviewed only after actual approval; rebuilding then includes approved articles in the sitemap.
+3. The clinic owner has confirmed review and approved all twenty articles for publication. They have `reviewed: true`, are indexable, and are included in the sitemap.
 4. Verify the final domain in Search Console, submit its sitemap and link the website from the existing Google Business Profile.
 5. Check mobile photo framing, accessibility, loading performance and real-device phone/WhatsApp handoffs.
 
@@ -68,7 +68,7 @@ The website has no live availability system, patient database, analytics tracker
 
 ## Image and content notes
 
-The doctor portrait has a digitally edited background; the working photograph has enhanced lighting/framing. Captions and alt text identify image treatment. Educational tooth/blog illustrations are generated conceptual artwork, not diagnostic models or evidence of treatment outcomes. The WhatsApp glyph comes from the official [WhatsApp website](https://www.whatsapp.com/); its trademark belongs to its owner. No fabricated patient testimonials or review schema are included.
+The doctor portrait has a digitally edited background; the working photograph has enhanced lighting/framing. Public captions identify the doctor and clinical activity; image treatment notes remain here. Educational tooth/blog illustrations are generated conceptual artwork, not diagnostic models or evidence of treatment outcomes. The WhatsApp glyph comes from the official [WhatsApp website](https://www.whatsapp.com/); its trademark belongs to its owner. No fabricated patient testimonials or review schema are included.
 
 ## Credits
 

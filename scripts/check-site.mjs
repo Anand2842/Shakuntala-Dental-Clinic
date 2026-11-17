@@ -23,7 +23,8 @@ assert.match(hero, /Your dentist<br\s*\/?>(?:\s*)in Munger/, 'Local search inten
 for (const detail of ['Dr. Rohan Bharti', 'BDS', 'Mogal Bazar', '10:30 AM', 'tel:+916201049711', 'google.com/maps/search/']) assert.ok(hero.includes(detail), `Hero must show ${detail}`);
 assert.equal(schema.employee.name, 'Dr. Rohan Bharti');
 assert.equal(schema.employee.hasCredential.name, 'Bachelor of Dental Surgery (BDS)');
-assert.ok(html.includes('Background digitally edited'), 'Edited portrait is disclosed');
+assert.ok(html.includes('Dr. Rohan Bharti, BDS · Dental Surgeon'), 'Doctor caption identifies qualification and role');
+assert.ok(!html.includes('Background digitally edited'), 'Internal photo editing note is absent');
 assert.ok(!html.includes('/images/preview-dentist.webp') && !html.includes('/images/preview-treatment-room.webp'),'Supplied clinic images replace generated placeholders');
 assert.ok(html.includes('/images/whatsapp-mark.svg'),'Official-source WhatsApp artwork is used');
 assert.equal((html.match(/<form\b/g)||[]).length,1,'One appointment form');

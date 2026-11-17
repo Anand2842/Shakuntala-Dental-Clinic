@@ -34,7 +34,7 @@
       "title": "NHS: What happens when you visit the dentist",
       "url": "https://www.nhs.uk/nhs-services/dentists/what-happens-when-you-visit-the-dentist/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "slug": "toothache-when-to-see-dentist",
@@ -71,7 +71,7 @@
       "title": "NHS: Toothache",
       "url": "https://www.nhs.uk/symptoms/toothache/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "slug": "dental-abscess-swelling",
@@ -108,7 +108,7 @@
       "title": "NHS: Dental abscess",
       "url": "https://www.nhs.uk/conditions/dental-abscess/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "slug": "root-canal-treatment-munger",
@@ -145,7 +145,7 @@
       "title": "AAE: What is a root canal?",
       "url": "https://www.aae.org/patients/root-canal-treatment/what-is-a-root-canal/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "slug": "dental-fillings-cavities",
@@ -182,7 +182,7 @@
       "title": "NHS: Tooth decay",
       "url": "https://www.nhs.uk/conditions/tooth-decay/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "slug": "dental-crowns-after-treatment",
@@ -219,7 +219,7 @@
       "title": "ADA MouthHealthy: Crowns",
       "url": "https://www.mouthhealthy.org/all-topics-a-z/crowns"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "slug": "teeth-cleaning-scaling-munger",
@@ -256,7 +256,7 @@
       "title": "ADA MouthHealthy: Scaling and root planing",
       "url": "https://www.mouthhealthy.org/all-topics-a-z/scaling-and-root-planing"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "slug": "bleeding-gums-dental-check",
@@ -293,7 +293,7 @@
       "title": "NHS: Gum disease",
       "url": "https://www.nhs.uk/conditions/gum-disease/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "slug": "sensitive-teeth-hot-cold",
@@ -330,7 +330,7 @@
       "title": "ADA MouthHealthy: Sensitive teeth",
       "url": "https://www.mouthhealthy.org/all-topics-a-z/sensitive-teeth"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "slug": "teeth-whitening-questions",
@@ -367,7 +367,7 @@
       "title": "NHS: Teeth whitening",
       "url": "https://www.nhs.uk/conditions/teeth-whitening/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "slug": "dental-implants-consultation",
@@ -404,7 +404,7 @@
       "title": "ADA MouthHealthy: Implants",
       "url": "https://www.mouthhealthy.org/all-topics-a-z/implants"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "slug": "dentures-missing-teeth",
@@ -441,7 +441,7 @@
       "title": "NHS: Dentures",
       "url": "https://www.nhs.uk/tests-and-treatments/dentures/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "slug": "braces-irregular-teeth",
@@ -478,7 +478,7 @@
       "title": "NHS: Braces",
       "url": "https://www.nhs.uk/tests-and-treatments/braces/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "slug": "child-first-dental-visit",
@@ -515,7 +515,7 @@
       "title": "NHS: Children’s teeth",
       "url": "https://www.nhs.uk/live-well/healthy-teeth-and-gums/taking-care-of-childrens-teeth/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "slug": "daily-brushing-routine",
@@ -552,7 +552,7 @@
       "title": "NHS: How to keep your teeth clean",
       "url": "https://www.nhs.uk/live-well/healthy-teeth-and-gums/how-to-keep-your-teeth-clean/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "slug": "cleaning-between-teeth",
@@ -589,7 +589,7 @@
       "title": "ADA MouthHealthy: Flossing",
       "url": "https://www.mouthhealthy.org/all-topics-a-z/flossing"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "slug": "persistent-bad-breath",
@@ -626,7 +626,7 @@
       "title": "NHS: Bad breath",
       "url": "https://www.nhs.uk/symptoms/bad-breath/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "slug": "tobacco-paan-oral-health",
@@ -663,7 +663,7 @@
       "title": "NHS: Causes of mouth cancer",
       "url": "https://www.nhs.uk/conditions/mouth-cancer/causes/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "slug": "wisdom-tooth-pain-assessment",
@@ -700,7 +700,7 @@
       "title": "NHS: Wisdom tooth removal",
       "url": "https://www.nhs.uk/tests-and-treatments/wisdom-tooth-removal/"
     },
-    "reviewed": false
+    "reviewed": true
   },
   {
     "slug": "dental-treatment-cost-questions-munger",
@@ -737,6 +737,6 @@
       "title": "Google Business Profile: Shakuntala Dental Clinic",
       "url": "https://www.google.com/maps/place/SHAKUNTALA+DENTAL+CLINIC+(+DR.ROHAN+BHARTI)/data=!4m2!3m1!1s0x0:0x9c55a0ab41964c07"
     },
-    "reviewed": false
+    "reviewed": true
   }
 ]
