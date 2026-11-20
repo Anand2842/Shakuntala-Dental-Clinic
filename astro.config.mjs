@@ -1,2 +1,2 @@
 import { defineConfig } from 'astro/config';
-export default defineConfig({ site: 'https://shakuntala-dental-munger.ranchopanda0.chatgpt.site', output: 'static' });
+export default defineConfig({ site: 'https://shakuntala-dental-clinic.vercel.app', output: 'static' });

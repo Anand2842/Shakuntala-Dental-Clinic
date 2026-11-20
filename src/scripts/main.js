@@ -15,15 +15,8 @@ document.querySelector('#all-services').addEventListener('click', e => {
   const button = e.currentTarget;
   const open = document.querySelector('.services-grid').classList.toggle('show-all');
   button.setAttribute('aria-expanded', String(open));
-  button.firstChild.textContent = open ? 'Show fewer treatments ' : 'View all 10 treatments ';
-  if (!open) document.querySelectorAll('.extra-service').forEach(card => card.open = false);
+  button.firstChild.textContent = open ? 'Show fewer treatments · कम इलाज दिखाएँ ' : 'View all 10 treatments · सभी 10 इलाज देखें ';
 });
-// Keep one animation active in browsers that do not support details[name].
-const serviceCards = [...document.querySelectorAll('.service-card')];
-serviceCards.forEach(card => card.addEventListener('toggle', () => {
-  if (card.open) serviceCards.forEach(other => { if (other !== card) other.open = false; });
-}));
-
 const experience = document.querySelector('.treatment-experience');
 const { steps, address } = window.clinicData;
 let currentStep = 0;
@@ -128,14 +121,6 @@ document.querySelector('#copy-address').addEventListener('click', async event =>
   }
   label.setAttribute('role', 'status');
 });
-document.querySelector('#load-map').addEventListener('click', () => {
-  const iframe = document.createElement('iframe');
-  iframe.title = 'Google Maps address search for Shakuntala Dental Clinic in Mogal Bazar, Munger';
-  iframe.src = `https://maps.google.com/maps?q=${encodeURIComponent('Shakuntala Dental Clinic, D.N. Road, Mogal Bazar, Munger, Bihar 811202')}&output=embed`;
-  iframe.referrerPolicy = 'no-referrer-when-downgrade';
-  iframe.allowFullscreen = true;
-  document.querySelector('#map-preview').replaceChildren(iframe);
-});
 const privacyDialog = document.querySelector('#privacy-dialog');
 document.querySelector('.privacy-open').addEventListener('click', () => privacyDialog.showModal());
 document.querySelector('#privacy-close').addEventListener('click', () => privacyDialog.close());
@@ -164,7 +149,3 @@ motionButton.addEventListener('click',()=>{paused=!paused;updateMotion();});
 reducedMotion.addEventListener('change',()=>{paused=reducedMotion.matches;setTilt(0);updateMotion();});
 updateMotion();
 
-// Hover previews the same disclosure that remains keyboard and tap operable.
-serviceCards.forEach(card=>card.addEventListener('pointerenter',event=>{
-  if(event.pointerType==='mouse' && innerWidth>800 && !document.querySelector('.services-grid').classList.contains('show-all')) card.open=true;
-}));

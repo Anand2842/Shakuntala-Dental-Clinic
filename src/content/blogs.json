@@ -4,7 +4,7 @@
     "title": "Your first dental visit in Munger: what to bring and ask",
     "hindi": "पहली दंत जाँच की तैयारी",
     "category": "Your visit",
-    "image": "visit",
+    "image": "first-dental-visit-munger",
     "description": "A practical first-visit checklist: questions, previous records and how to request a consultation in Mogal Bazar, Munger.",
     "intro": "A first dental appointment is easier when you know what you want to discuss. You do not need to choose a procedure before booking. At Shakuntala Dental Clinic in Mogal Bazar, Munger, you can request a consultation with Dr. Rohan Bharti, BDS, and explain your concern in your own words.",
     "sections": [
@@ -34,14 +34,15 @@
       "title": "NHS: What happens when you visit the dentist",
       "url": "https://www.nhs.uk/nhs-services/dentists/what-happens-when-you-visit-the-dentist/"
     },
-    "reviewed": true
+    "published": true,
+    "imageAlt": "Dentist discussing a first visit with an adult patient"
   },
   {
     "slug": "toothache-when-to-see-dentist",
     "title": "Toothache: when to call a dentist and when to seek emergency care",
     "hindi": "दाँत के दर्द में कब मदद लें",
     "category": "Pain & symptoms",
-    "image": "comfort",
+    "image": "toothache-when-to-see-dentist",
     "description": "Understand warning signs with toothache, the information to give a dentist and why waiting for pain to disappear can be misleading.",
     "intro": "Tooth pain can interrupt meals, work and sleep. The useful first question is not which treatment to book, but how quickly to get assessed. This guide helps patients in Munger describe the problem and recognise symptoms that need more urgent help.",
     "sections": [
@@ -56,10 +57,6 @@
       {
         "heading": "Make your call more useful",
         "text": "Explain where the pain seems to be, when it started, whether you have swelling or fever and what makes it worse. Say if you recently had treatment or injured the tooth. If the clinic cannot offer a suitable urgent appointment, ask where to seek care instead; the website does not provide a round-the-clock emergency service."
-      },
-      {
-        "heading": "Plan a consultation in Munger",
-        "text": "Shakuntala Dental Clinic is in Mogal Bazar on D.N. Road. Call +91 62010 49711 to ask about an appointment with Dr. Rohan Bharti, BDS. Bring your medication list and relevant records. You can use the appointment form for a routine request, but urgent symptoms are better explained directly by phone."
       }
     ],
     "questions": [
@@ -71,14 +68,15 @@
       "title": "NHS: Toothache",
       "url": "https://www.nhs.uk/symptoms/toothache/"
     },
-    "reviewed": true
+    "published": true,
+    "imageAlt": "Woman holding her cheek beside a clock to illustrate toothache"
   },
   {
     "slug": "dental-abscess-swelling",
     "title": "Dental swelling and abscess: why prompt assessment matters",
     "hindi": "दाँत या चेहरे की सूजन",
     "category": "Pain & symptoms",
-    "image": "comfort",
+    "image": "dental-abscess-swelling",
     "description": "Learn why suspected dental infection needs prompt care, which warning signs are emergencies and what to tell the clinic.",
     "intro": "A swelling beside a tooth or a swollen cheek deserves attention. Do not assume it is a minor problem because the pain comes and goes. If you are arranging dental care in Munger, make swelling the first thing you mention when you contact a clinic.",
     "sections": [
@@ -93,10 +91,6 @@
       {
         "heading": "Do not try to drain it yourself",
         "text": "Avoid poking or squeezing a swelling. Do not use leftover antibiotics or someone else’s prescription. Tell the clinician what medicines you have already taken. Ask which treatment addresses the source of the infection and what changes should lead you to seek help again."
-      },
-      {
-        "heading": "Contacting the clinic",
-        "text": "For an appointment enquiry at Shakuntala Dental Clinic, call +91 62010 49711 and explain the swelling, its duration and any fever or difficulty swallowing. The clinic is in Mogal Bazar, Munger, with stated hours of 10:30 AM–7:00 PM every day. Availability and suitability must be confirmed. If care is not available promptly, seek another appropriate urgent service rather than waiting."
       }
     ],
     "questions": [
@@ -108,14 +102,15 @@
       "title": "NHS: Dental abscess",
       "url": "https://www.nhs.uk/conditions/dental-abscess/"
     },
-    "reviewed": true
+    "published": true,
+    "imageAlt": "Tooth cross-section showing a pocket of infection near its root"
   },
   {
     "slug": "root-canal-treatment-munger",
     "title": "Root canal treatment in Munger: understanding the steps",
     "hindi": "रूट कैनाल इलाज को समझें",
     "category": "Treatment decisions",
-    "image": "restoration",
+    "image": "root-canal-treatment-munger",
     "description": "A plain-language guide to root canal treatment, restoration and the questions to ask before agreeing to a treatment plan.",
     "intro": "Being told you may need root canal treatment can raise questions about pain, visits and whether the tooth can be kept. Understanding the purpose of the procedure helps you have a clearer conversation. The right plan depends on examination of the individual tooth, not on a general animation or article.",
     "sections": [
@@ -130,10 +125,6 @@
       {
         "heading": "Prepare questions before your appointment",
         "text": "Tell the dentist about previous treatment on the tooth and any difficulty you have had with dental appointments. Ask how comfort will be managed and what you should do between visits. If you have work or travel commitments, explain them before scheduling rather than assuming everything will be completed in one sitting."
-      },
-      {
-        "heading": "Discuss your tooth in Munger",
-        "text": "You can request a consultation with Dr. Rohan Bharti, BDS, at Shakuntala Dental Clinic in Mogal Bazar. Call +91 62010 49711 to confirm availability and ask about the assessment process. The homepage includes a five-step educational walkthrough that you can review before your visit. It does not diagnose your tooth or guarantee an outcome."
       }
     ],
     "questions": [
@@ -145,14 +136,15 @@
       "title": "AAE: What is a root canal?",
       "url": "https://www.aae.org/patients/root-canal-treatment/what-is-a-root-canal/"
     },
-    "reviewed": true
+    "published": true,
+    "imageAlt": "Cutaway tooth with an endodontic file illustrating root canal treatment"
   },
   {
     "slug": "dental-fillings-cavities",
-    "title": "Dental fillings: what to ask when a tooth has a cavity",
+    "title": "Dental fillings for cavities: materials, appointments and cost questions",
     "hindi": "कैविटी और दाँत की फिलिंग",
     "category": "Treatment decisions",
-    "image": "restoration",
+    "image": "dental-fillings-cavities",
     "description": "Understand cavities, filling decisions and what to ask about materials, costs and follow-up at a dental consultation.",
     "intro": "A cavity may be noticed as a hole, a change in colour or sensitivity, but some decay causes no obvious symptoms initially. If you think a tooth needs a filling, an examination is the useful next step. This guide explains how to prepare for that conversation without choosing a material or procedure in advance.",
     "sections": [
@@ -167,10 +159,6 @@
       {
         "heading": "Make the decision understandable",
         "text": "It helps to repeat the explanation in your own words: which tooth is being treated, what will be done and what might change the plan. Ask what alternatives exist if the damage is more extensive than expected. Discuss how the tooth will be reviewed and when to call if it does not feel comfortable."
-      },
-      {
-        "heading": "Request a local consultation",
-        "text": "For patients in Munger, Shakuntala Dental Clinic provides appointment enquiries by phone and WhatsApp. Call +91 62010 49711 and describe the tooth concern. Dr. Rohan Bharti, BDS, practises at the ground-floor clinic in Mogal Bazar, beside Utkarsh Small Finance Bank and Jan Aushadhi Kendra. Confirm the service and appointment before visiting."
       }
     ],
     "questions": [
@@ -182,14 +170,15 @@
       "title": "NHS: Tooth decay",
       "url": "https://www.nhs.uk/conditions/tooth-decay/"
     },
-    "reviewed": true
+    "published": true,
+    "imageAlt": "Dental instrument placing a tooth-coloured filling in a cavity"
   },
   {
     "slug": "dental-crowns-after-treatment",
-    "title": "Dental crowns: why a tooth may need more than a filling",
+    "title": "Dental crowns and tooth caps: choosing a restoration after treatment",
     "hindi": "डेंटल क्राउन कब लगाया जाता है",
     "category": "Treatment decisions",
-    "image": "restoration",
+    "image": "dental-crowns-after-treatment",
     "description": "Learn what a dental crown covers and how to discuss the material, remaining tooth structure and complete treatment estimate.",
     "intro": "A crown is sometimes called a cap. Hearing that word after a large filling or root canal treatment can make it sound like an optional finishing touch. Ask the dentist what role a crown would play for your particular tooth before deciding.",
     "sections": [
@@ -204,10 +193,6 @@
       {
         "heading": "Think beyond appearance",
         "text": "Tell the dentist what matters most to you: chewing comfort, appearance, budget, appointment timing or understanding alternatives. Ask how the restoration will be checked and maintained. Avoid making a decision from a material name alone; what is suitable depends on the clinical situation and the proposed design."
-      },
-      {
-        "heading": "Take your questions to a consultation",
-        "text": "If you have been advised to get a crown and live in Munger, bring available records and the earlier estimate to your appointment. Shakuntala Dental Clinic is in Mogal Bazar on D.N. Road. Call +91 62010 49711 to request time with Dr. Rohan Bharti, BDS. Confirm what assessment and restorative services are available before attending."
       }
     ],
     "questions": [
@@ -219,14 +204,15 @@
       "title": "ADA MouthHealthy: Crowns",
       "url": "https://www.mouthhealthy.org/all-topics-a-z/crowns"
     },
-    "reviewed": true
+    "published": true,
+    "imageAlt": "Ceramic crown positioned above a prepared tooth"
   },
   {
     "slug": "teeth-cleaning-scaling-munger",
-    "title": "Teeth cleaning and scaling: what the appointment is for",
+    "title": "Teeth cleaning and scaling in Munger: what to expect",
     "hindi": "दाँतों की सफाई और स्केलिंग",
     "category": "Prevention",
-    "image": "prevention",
+    "image": "teeth-cleaning-scaling-munger",
     "description": "Understand professional cleaning, how gum assessment affects the plan and why scaling and whitening are different discussions.",
     "intro": "People use “cleaning” to mean several things, from removing visible deposits to wanting whiter teeth. Describe what bothers you when you book. A dental appointment can establish whether you need routine cleaning advice, professional removal of deposits or a more detailed gum assessment.",
     "sections": [
@@ -241,10 +227,6 @@
       {
         "heading": "Ask for a routine you can maintain",
         "text": "Bring the brush or interdental aid you currently use if you are unsure about technique. Ask for a demonstration rather than buying several products without advice. Also ask whether the change in colour you see is a surface deposit or something that needs a different discussion; cleaning and whitening do not mean the same thing."
-      },
-      {
-        "heading": "Plan your visit in Mogal Bazar",
-        "text": "At Shakuntala Dental Clinic in Munger, you can request a dental consultation and ask about cleaning availability. Call +91 62010 49711 before visiting. The clinic’s stated hours are Monday to Sunday, 10:30 AM–7:00 PM. Confirm the appointment and ask what your estimate includes, especially if further gum care is suggested."
       }
     ],
     "questions": [
@@ -256,14 +238,15 @@
       "title": "ADA MouthHealthy: Scaling and root planing",
       "url": "https://www.mouthhealthy.org/all-topics-a-z/scaling-and-root-planing"
     },
-    "reviewed": true
+    "published": true,
+    "imageAlt": "Dental scaler removing deposits near the gumline"
   },
   {
     "slug": "bleeding-gums-dental-check",
     "title": "Bleeding gums: what to mention at your dental check",
     "hindi": "मसूड़ों से खून आना",
     "category": "Pain & symptoms",
-    "image": "comfort",
+    "image": "bleeding-gums-dental-check",
     "description": "Bleeding gums should be assessed. Learn which changes to describe and how to ask about gum care and follow-up.",
     "intro": "Finding blood on your toothbrush can be unsettling. It is also easy to dismiss if it happens only occasionally. Rather than stopping all cleaning or trying a series of remedies, arrange a dental assessment and explain exactly what you have noticed.",
     "sections": [
@@ -278,10 +261,6 @@
       {
         "heading": "Leave with specific instructions",
         "text": "Ask which areas need attention and how to clean them without using excessive pressure. If professional treatment is proposed, ask what it involves and how the response will be reviewed. Write down any instructions you find hard to remember. Do not assume a change in symptoms means you can skip an agreed review."
-      },
-      {
-        "heading": "Arrange a gum assessment in Munger",
-        "text": "For an appointment enquiry, contact Shakuntala Dental Clinic on +91 62010 49711. Dr. Rohan Bharti, BDS, practises at Mogal Bazar, beside Utkarsh Small Finance Bank and Jan Aushadhi Kendra. Explain your gum concern when requesting the visit. The website’s treatment information is general; the care appropriate for you follows an examination."
       }
     ],
     "questions": [
@@ -293,14 +272,15 @@
       "title": "NHS: Gum disease",
       "url": "https://www.nhs.uk/conditions/gum-disease/"
     },
-    "reviewed": true
+    "published": true,
+    "imageAlt": "Soft toothbrush beside an inflamed gum margin"
   },
   {
     "slug": "sensitive-teeth-hot-cold",
     "title": "Sensitive teeth: why cold or hot foods may hurt",
     "hindi": "ठंडा या गरम लगने पर क्या करें",
     "category": "Pain & symptoms",
-    "image": "comfort",
+    "image": "sensitive-teeth-hot-cold",
     "description": "Tooth sensitivity can have different causes. Prepare for an assessment by noting triggers, duration and the affected area.",
     "intro": "A sharp sensation with cold water or hot tea is often called sensitivity. That word describes a feeling, not its cause. If the sensation is new, recurring or concentrated around one tooth, tell a dentist rather than assuming all sensitivity can be managed with the same product.",
     "sections": [
@@ -315,10 +295,6 @@
       {
         "heading": "Ask before changing several products",
         "text": "Bring the name of your toothpaste and explain how you brush. Ask what change, if any, is suitable and when its effect should be reviewed. If a product is recommended, ask how to use it and when ongoing symptoms need another check. Avoid choosing treatment based only on an online advertisement."
-      },
-      {
-        "heading": "Discuss sensitivity locally",
-        "text": "Patients in Munger can request a consultation at Shakuntala Dental Clinic, Mogal Bazar. Call +91 62010 49711 to ask about availability with Dr. Rohan Bharti, BDS. Describe the symptom when booking and bring relevant records. A consultation can clarify the next step; the website cannot identify the cause from a symptom alone."
       }
     ],
     "questions": [
@@ -330,14 +306,15 @@
       "title": "ADA MouthHealthy: Sensitive teeth",
       "url": "https://www.mouthhealthy.org/all-topics-a-z/sensitive-teeth"
     },
-    "reviewed": true
+    "published": true,
+    "imageAlt": "Tooth between ice and a hot drink illustrating sensitivity"
   },
   {
     "slug": "teeth-whitening-questions",
-    "title": "Teeth whitening: questions to ask before choosing treatment",
+    "title": "Teeth whitening in Munger: suitability, sensitivity and questions to ask",
     "hindi": "दाँतों की सफेदी से पहले सवाल",
     "category": "Treatment decisions",
-    "image": "smile",
+    "image": "teeth-whitening-questions",
     "description": "Discuss whitening suitability, existing restorations, sensitivity and realistic expectations before choosing cosmetic dental treatment.",
     "intro": "If you want a brighter smile, begin by explaining what you would like to change. A photograph, product advertisement or someone else’s result cannot show what will be appropriate for your teeth. A consultation should establish oral health and realistic expectations before discussing cosmetic options.",
     "sections": [
@@ -352,10 +329,6 @@
       {
         "heading": "Understand the practical commitments",
         "text": "Ask which method is being proposed, what instructions you would need to follow and what follow-up is included. Find out how to contact the clinician if sensitivity occurs. An estimate should explain the treatment and any additional work separately. Avoid offers that promise an identical result for everyone."
-      },
-      {
-        "heading": "Ask about availability in Munger",
-        "text": "You can enquire about cosmetic dental advice at Shakuntala Dental Clinic in Mogal Bazar by calling +91 62010 49711. Dr. Rohan Bharti, BDS, can discuss your concern during a consultation. Confirm whitening availability and suitability directly with the clinic; inclusion in an educational guide is not confirmation that a procedure is appropriate for you."
       }
     ],
     "questions": [
@@ -367,14 +340,15 @@
       "title": "NHS: Teeth whitening",
       "url": "https://www.nhs.uk/conditions/teeth-whitening/"
     },
-    "reviewed": true
+    "published": true,
+    "imageAlt": "Tooth shade guide beside a smile"
   },
   {
     "slug": "dental-implants-consultation",
-    "title": "Dental implants: preparing for a missing-tooth consultation",
+    "title": "Dental implants in Munger: assessment and missing-tooth options",
     "hindi": "डेंटल इम्प्लांट की जानकारी",
     "category": "Treatment decisions",
-    "image": "smile",
+    "image": "dental-implants-consultation",
     "description": "Understand what an implant supports and what to ask about assessment, alternatives, costs and long-term maintenance.",
     "intro": "A missing tooth can raise questions about chewing, appearance and which replacement to choose. An implant is one possible option, but it should be discussed alongside your individual needs and alternatives. Start with an assessment rather than assuming that a popular treatment is automatically the right fit.",
     "sections": [
@@ -389,10 +363,6 @@
       {
         "heading": "Compare complete estimates",
         "text": "Ask who would carry out each part of the care, whether specialist referral is needed, and which components are included in the estimate. Also ask about imaging, the replacement tooth, possible additional procedures and reviews. Clarify the proposed sequence of visits before making travel or work arrangements."
-      },
-      {
-        "heading": "Start the conversation in Munger",
-        "text": "Shakuntala Dental Clinic is in Mogal Bazar, Munger. Call +91 62010 49711 to request a consultation with Dr. Rohan Bharti, BDS, and confirm what implant assessment or referral arrangements are available. This guide explains questions to ask; it does not imply that every stage of implant care is provided on site or guarantee success."
       }
     ],
     "questions": [
@@ -404,14 +374,15 @@
       "title": "ADA MouthHealthy: Implants",
       "url": "https://www.mouthhealthy.org/all-topics-a-z/implants"
     },
-    "reviewed": true
+    "published": true,
+    "imageAlt": "Separate crown, connector and implant screw above the jawbone"
   },
   {
     "slug": "dentures-missing-teeth",
-    "title": "Dentures and missing teeth: comfort, fit and questions to ask",
+    "title": "Dentures in Munger: questions about fit, comfort and replacement teeth",
     "hindi": "कृत्रिम दाँत और डेन्चर",
     "category": "Treatment decisions",
-    "image": "smile",
+    "image": "dentures-missing-teeth",
     "description": "A guide to discussing complete or partial dentures, adapting to them and arranging help with fit or discomfort.",
     "intro": "Replacing missing teeth is a personal decision. Some people want to improve chewing, while others mainly want to speak or smile with more confidence. Explain those priorities when discussing dentures so that the appointment focuses on what matters in your daily life.",
     "sections": [
@@ -426,10 +397,6 @@
       {
         "heading": "Ask for a manageable care routine",
         "text": "Request instructions for cleaning, handling and storing the proposed denture, including when to remove it. Ask how adaptation will be reviewed and whom to contact if it rubs. If a family member helps with daily care, consider bringing them so that both of you understand the instructions."
-      },
-      {
-        "heading": "Arrange a consultation in Munger",
-        "text": "For enquiries at Shakuntala Dental Clinic, call +91 62010 49711. Dr. Rohan Bharti, BDS, practises in Mogal Bazar on D.N. Road. Confirm denture services and appointment availability before visiting. Bring previous records if available and ask for an estimate that explains the proposed denture and review appointments clearly."
       }
     ],
     "questions": [
@@ -441,14 +408,15 @@
       "title": "NHS: Dentures",
       "url": "https://www.nhs.uk/tests-and-treatments/dentures/"
     },
-    "reviewed": true
+    "published": true,
+    "imageAlt": "Removable partial denture on a tray beside a dental mirror"
   },
   {
     "slug": "braces-irregular-teeth",
-    "title": "Braces and irregular teeth: starting an alignment discussion",
+    "title": "Braces and crooked teeth: planning an alignment consultation in Munger",
     "hindi": "टेढ़े दाँत और ब्रेसेस",
     "category": "Treatment decisions",
-    "image": "smile",
+    "image": "braces-irregular-teeth",
     "description": "Learn what an alignment assessment considers and which questions to ask about braces, referrals, visits and ongoing care.",
     "intro": "If crowded teeth, gaps or your bite are troubling you, a consultation can help clarify the choices. You do not need to decide on an appliance before your teeth have been assessed. Explain what you hope to improve and ask which clinician should evaluate it.",
     "sections": [
@@ -463,10 +431,6 @@
       {
         "heading": "Discuss the day-to-day commitments",
         "text": "Before committing, ask about visits, cleaning around the appliance, possible discomfort and what happens after active treatment. Explain school, work or travel constraints early. Ask for a written explanation of the proposed costs and what is included, rather than comparing a monthly payment without understanding the full plan."
-      },
-      {
-        "heading": "Begin with a local enquiry",
-        "text": "You can contact Shakuntala Dental Clinic in Mogal Bazar, Munger, on +91 62010 49711 to ask about a consultation with Dr. Rohan Bharti, BDS. Confirm which alignment assessments, treatments or referral arrangements are available. This educational page does not claim that the clinic provides every type of brace or aligner."
       }
     ],
     "questions": [
@@ -478,51 +442,54 @@
       "title": "NHS: Braces",
       "url": "https://www.nhs.uk/tests-and-treatments/braces/"
     },
-    "reviewed": true
+    "published": true,
+    "imageAlt": "Close-up illustration of teeth with metal braces"
   },
   {
     "slug": "child-first-dental-visit",
-    "title": "Your child’s first dental visit: a calm preparation guide",
-    "hindi": "बच्चे की पहली दंत जाँच",
+    "title": "Children’s dental care in Munger: your child’s first dentist visit",
+    "hindi": "मुंगेर में बच्चों के दाँतों की देखभाल: पहली दंत जाँच की तैयारी",
     "category": "Family care",
-    "image": "family",
-    "description": "Help a child prepare for a dental visit with simple language, useful observations and questions about daily tooth care.",
-    "intro": "A child’s dental visit does not need a dramatic introduction. Keep the explanation simple: the dentist will look at their teeth and help the family care for them. If you are arranging a visit in Munger, first ask whether the clinic can offer an appropriate appointment for your child’s age and needs.",
+    "image": "child-dental-visit",
+    "description": "Planning your child’s first dentist visit in Munger? Get practical preparation tips and request a consultation at Shakuntala Dental Clinic, Mogal Bazar.",
+    "intro": "Looking for a dentist for your child in Munger? This guide helps parents prepare for a first dental check-up, discuss baby teeth and build a brushing routine. At Shakuntala Dental Clinic in Mogal Bazar, you can ask about an appointment with Dr. Rohan Bharti, BDS. Tell the team your child’s age and the reason for the visit so they can explain the care available.",
     "sections": [
       {
-        "heading": "Build familiarity early",
+        "heading": "Preparing for your child’s first dental check-up",
         "text": "Dental visits can begin when the first teeth appear. A short, positive introduction gives parents a chance to ask about care and helps the child become familiar with the setting. A dentist can advise when future checks are needed. Do not wait for pain to be the only reason a child meets a dental professional."
       },
       {
-        "heading": "Prepare without making promises",
+        "heading": "Helping a child feel comfortable at the dentist",
         "text": "Use calm words and avoid telling a child that nothing will happen or that they will definitely feel no discomfort. Tell the team about worries, communication needs and previous experiences. Bring a comfort item if helpful, and ask what the clinic suggests before the appointment."
       },
       {
-        "heading": "Take practical questions with you",
+        "heading": "Questions about baby teeth, brushing and cavities",
         "text": "Note any difficulty brushing, eating or sleeping, and tell the clinician about concerns with the teeth. Ask for a demonstration of brushing and advice suited to the child’s age. Keep the discussion specific: who helps with brushing, which toothpaste is used and where the routine becomes difficult."
       },
       {
-        "heading": "Ask about a visit in Mogal Bazar",
-        "text": "Call Shakuntala Dental Clinic on +91 62010 49711 with your child’s age and the reason for the visit. Staff can confirm availability and the care offered before you travel. Dr. Rohan Bharti, BDS, practises at the clinic on D.N. Road in Munger. Do not send detailed medical histories through the public enquiry form; discuss them directly with the clinician."
+        "heading": "Booking children’s dental care in Mogal Bazar, Munger",
+        "text": "To request a children’s dental appointment, call or WhatsApp Shakuntala Dental Clinic on +91 62010 49711. Share your preferred day and your child’s age; the clinic will confirm availability. Find us on the ground floor, D.N. Road, Mogal Bazar, beside Utkarsh Small Finance Bank and Jan Aushadhi Kendra. The clinic is open Monday to Sunday, 10:30 AM–7:00 PM. If your child needs specialist care, discuss the appropriate next step with the dentist."
       }
     ],
     "questions": [
-      "How can I help my child with brushing?",
-      "What changes should I watch for?",
-      "When should the next check be arranged?"
+      "What should I bring to my child’s first dental appointment?",
+      "How can I help my child brush their baby teeth?",
+      "What should I ask about cavities in milk teeth?",
+      "When should the next dental check-up be arranged?"
     ],
     "source": {
       "title": "NHS: Children’s teeth",
       "url": "https://www.nhs.uk/live-well/healthy-teeth-and-gums/taking-care-of-childrens-teeth/"
     },
-    "reviewed": true
+    "published": true,
+    "imageAlt": "Illustration of a parent and child watching a dentist demonstrate brushing on a dental model"
   },
   {
     "slug": "daily-brushing-routine",
     "title": "A daily brushing routine you can actually maintain",
     "hindi": "रोज़ दाँत साफ करने की आदत",
     "category": "Prevention",
-    "image": "prevention",
+    "image": "daily-brushing-routine",
     "description": "Build a consistent brushing routine and ask for practical advice on technique, toothpaste and hard-to-reach areas.",
     "intro": "A useful dental routine is one you can repeat on an ordinary busy day. You do not need a complicated collection of products to start a conversation about better brushing. Think about when you brush, what you use and which areas you find difficult to reach.",
     "sections": [
@@ -537,10 +504,6 @@
       {
         "heading": "Ask for help with difficult areas",
         "text": "Bring your questions to a check-up: perhaps the back teeth are hard to reach, brushing feels uncomfortable or you are unsure how much pressure you use. A demonstration can be more helpful than a long shopping list. Mention bleeding or recurring discomfort rather than brushing harder to try to remove it."
-      },
-      {
-        "heading": "Use a check-up to personalise the routine",
-        "text": "If you are in Munger, you can request a consultation at Shakuntala Dental Clinic in Mogal Bazar. Call +91 62010 49711 and ask about an appointment with Dr. Rohan Bharti, BDS. Tell the dentist which part of daily care you struggle with so the advice can fit your household and schedule."
       }
     ],
     "questions": [
@@ -552,14 +515,15 @@
       "title": "NHS: How to keep your teeth clean",
       "url": "https://www.nhs.uk/live-well/healthy-teeth-and-gums/how-to-keep-your-teeth-clean/"
     },
-    "reviewed": true
+    "published": true,
+    "imageAlt": "Adult brushing at a bathroom mirror beside a timer"
   },
   {
     "slug": "cleaning-between-teeth",
     "title": "Cleaning between teeth: floss and interdental questions",
     "hindi": "दाँतों के बीच सफाई",
     "category": "Prevention",
-    "image": "prevention",
+    "image": "cleaning-between-teeth",
     "description": "Understand why brushing alone misses some areas and how to ask for a suitable technique for cleaning between teeth.",
     "intro": "You may brush carefully and still notice food collecting between certain teeth. Cleaning those spaces is a separate part of daily care. Rather than forcing a tool into an uncomfortable gap, ask a dental professional to show you an approach that suits your mouth.",
     "sections": [
@@ -574,10 +538,6 @@
       {
         "heading": "Build a realistic habit",
         "text": "Choose a time when you can give the routine a little attention. If handling floss is awkward, say so; do not assume you are simply bad at dental care. Ask whether another tool would be easier. Mention pain, bleeding or repeated food trapping at your appointment so the area can be assessed."
-      },
-      {
-        "heading": "Bring your questions to the clinic",
-        "text": "At Shakuntala Dental Clinic in Mogal Bazar, Munger, you can request a consultation with Dr. Rohan Bharti, BDS. Call +91 62010 49711 to confirm a visit. Bring the name or packaging of any interdental product you already use, and explain what feels difficult. A small, practical adjustment may be easier to maintain than adding several new steps at once."
       }
     ],
     "questions": [
@@ -589,14 +549,15 @@
       "title": "ADA MouthHealthy: Flossing",
       "url": "https://www.mouthhealthy.org/all-topics-a-z/flossing"
     },
-    "reviewed": true
+    "published": true,
+    "imageAlt": "Interdental brush cleaning between teeth beside dental floss"
   },
   {
     "slug": "persistent-bad-breath",
     "title": "Persistent bad breath: a practical dental conversation",
     "hindi": "मुँह की बदबू पर सलाह",
     "category": "Pain & symptoms",
-    "image": "prevention",
+    "image": "persistent-bad-breath",
     "description": "Discuss persistent bad breath without embarrassment and learn what information can help a dental assessment.",
     "intro": "Bad breath is a common concern, but many people feel uncomfortable bringing it up. You can simply say, “I have noticed persistent bad breath and would like advice.” That gives the dentist a useful starting point without needing to explain or apologise for it.",
     "sections": [
@@ -611,10 +572,6 @@
       {
         "heading": "Ask for a clear next step",
         "text": "If a dental issue is found, ask how it will be managed and when the effect should be reviewed. If the dentist thinks another assessment is needed, ask where to go next. Avoid buying multiple products at once, because it becomes harder to understand which change is useful."
-      },
-      {
-        "heading": "Arrange a conversation in Munger",
-        "text": "Shakuntala Dental Clinic is on D.N. Road in Mogal Bazar. Call +91 62010 49711 to request a visit with Dr. Rohan Bharti, BDS. You can ask about a general consultation without naming the concern in detail when booking. Staff confirmation is needed before treating a WhatsApp request as an appointment."
       }
     ],
     "questions": [
@@ -626,14 +583,15 @@
       "title": "NHS: Bad breath",
       "url": "https://www.nhs.uk/symptoms/bad-breath/"
     },
-    "reviewed": true
+    "published": true,
+    "imageAlt": "Adult checking their breath beside a tongue cleaner and water"
   },
   {
     "slug": "tobacco-paan-oral-health",
     "title": "Tobacco, paan and oral health: what to discuss with a dentist",
     "hindi": "तंबाकू, पान और मुँह की सेहत",
     "category": "Prevention",
-    "image": "prevention",
+    "image": "tobacco-paan-oral-health",
     "description": "A non-judgmental guide to discussing tobacco or areca-nut use and arranging assessment of persistent mouth changes.",
     "intro": "A dental consultation is a place to discuss tobacco or paan use honestly. The aim is to understand your oral health and appropriate support, not to criticise you. Explain what you use and how often, even if the product is described as traditional or tobacco-free.",
     "sections": [
@@ -648,10 +606,6 @@
       {
         "heading": "Prepare for an open conversation",
         "text": "It can help to write the product names down before the visit. If you have tried stopping before, explain what made it difficult and what helped. Ask what support is available and whether another healthcare professional should be involved. The useful outcome is a clear next step, not a promise that one appointment removes the risk."
-      },
-      {
-        "heading": "Discuss concerns in Munger",
-        "text": "For a dental appointment enquiry at Shakuntala Dental Clinic in Mogal Bazar, call +91 62010 49711. Explain if you have a persistent mouth change so staff understand the reason for the visit. Confirm availability with Dr. Rohan Bharti, BDS. The website does not diagnose lesions or claim specialist cancer treatment facilities."
       }
     ],
     "questions": [
@@ -663,14 +617,15 @@
       "title": "NHS: Causes of mouth cancer",
       "url": "https://www.nhs.uk/conditions/mouth-cancer/causes/"
     },
-    "reviewed": true
+    "published": true,
+    "imageAlt": "Tobacco and paan with a stop symbol beside dental-care tools"
   },
   {
     "slug": "wisdom-tooth-pain-assessment",
     "title": "Wisdom tooth pain: why an assessment comes before removal",
     "hindi": "अक्ल दाढ़ के दर्द की जाँच",
     "category": "Treatment decisions",
-    "image": "comfort",
+    "image": "wisdom-tooth-pain-assessment",
     "description": "Understand what a wisdom-tooth assessment considers and what to ask about monitoring, removal and referral.",
     "intro": "Pain near the back of the mouth does not automatically mean a wisdom tooth must be removed. An examination helps establish which tooth or tissue is causing the problem. If you are looking for advice in Munger, begin by describing the symptoms and asking about an assessment.",
     "sections": [
@@ -685,10 +640,6 @@
       {
         "heading": "Understand the proposed setting and recovery plan",
         "text": "If removal is suggested, ask who would perform it, whether referral is needed, what preparation is required and what written aftercare you will receive. Explain work or study commitments so the plan is practical. Do not assume every extraction has the same complexity or recovery experience."
-      },
-      {
-        "heading": "Contact a clinic before travelling",
-        "text": "Call Shakuntala Dental Clinic on +91 62010 49711 to ask about an assessment with Dr. Rohan Bharti, BDS, in Mogal Bazar. Confirm extraction availability and referral arrangements directly. For significant swelling or difficulty swallowing or breathing, seek urgent or emergency care rather than waiting for a routine booking response."
       }
     ],
     "questions": [
@@ -700,14 +651,15 @@
       "title": "NHS: Wisdom tooth removal",
       "url": "https://www.nhs.uk/tests-and-treatments/wisdom-tooth-removal/"
     },
-    "reviewed": true
+    "published": true,
+    "imageAlt": "Tilted wisdom tooth beside an upright molar"
   },
   {
     "slug": "dental-treatment-cost-questions-munger",
     "title": "Dental treatment costs in Munger: ask for a clear estimate",
     "hindi": "दंत इलाज के खर्च पर सही सवाल",
     "category": "Your visit",
-    "image": "visit",
+    "image": "dental-treatment-cost-questions-munger",
     "description": "A practical way to compare dental estimates without invented local prices: diagnosis, included items, visits and follow-up.",
     "intro": "When comparing dental treatment costs in Munger, the most useful number is a clear estimate for your own treatment plan. A low headline price can be hard to interpret if it is unclear which tooth, procedure or restoration it covers. This guide is a question checklist, not a clinic price list.",
     "sections": [
@@ -737,6 +689,159 @@
       "title": "Google Business Profile: Shakuntala Dental Clinic",
       "url": "https://www.google.com/maps/place/SHAKUNTALA+DENTAL+CLINIC+(+DR.ROHAN+BHARTI)/data=!4m2!3m1!1s0x0:0x9c55a0ab41964c07"
     },
-    "reviewed": true
+    "published": true,
+    "imageAlt": "Hands reviewing a dental estimate beside a calculator"
+  },
+  {
+    "slug": "milk-teeth-cavities",
+    "title": "Cavities in milk teeth: what parents should ask about treatment",
+    "hindi": "दूध के दाँत में कीड़ा: जाँच और इलाज के बारे में सवाल",
+    "category": "Family care",
+    "image": "milk-teeth-cavities",
+    "description": "Understand what to discuss when a child has a cavity in a milk tooth, from symptoms to treatment planning and appointment questions.",
+    "intro": "Parents often describe a cavity as “दाँत में कीड़ा”. The useful question is what has changed in the tooth and what the dentist finds on examination. This guide focuses on an existing cavity; our first-visit guide covers preparing a child for the appointment.",
+    "sections": [
+      {
+        "heading": "What changes should you report?",
+        "text": "A cavity can be associated with a visible hole, a white, brown or dark mark, or sensitivity to food and drinks. Early decay may cause no pain. Arrange a dental assessment if you suspect decay rather than trying to diagnose a mark from a photograph."
+      },
+      {
+        "heading": "Does every cavity need the same treatment?",
+        "text": "No. The depth and extent of decay affect the choices. Early decay may be managed with a fluoride treatment; an established hole may need a filling. More extensive damage can require a different procedure or removal. Ask the dentist to explain the findings in your child’s particular tooth."
+      },
+      {
+        "heading": "Make the treatment discussion specific",
+        "text": "Write down which side your child avoids when eating, when you first noticed the change and whether sleep has been interrupted. At the appointment, ask which tooth is involved, what the proposed procedure aims to do and what follow-up is needed. Request a written estimate for the proposed care rather than assuming every filling has the same fee."
+      },
+      {
+        "heading": "Preparing for a consultation in Munger",
+        "text": "When contacting Shakuntala Dental Clinic, say that the appointment concerns a child and mention their age. Ask how much time to allow and whether a parent can stay with the child. Bring previous dental records if you have them. A clear description of the concern helps the team plan the visit."
+      }
+    ],
+    "questions": [
+      "Which tooth is affected and how extensive is the decay?",
+      "What are the options for this tooth?",
+      "What does the estimate include?"
+    ],
+    "source": {
+      "title": "NHS: Tooth decay",
+      "url": "https://www.nhs.uk/conditions/tooth-decay/"
+    },
+    "published": true,
+    "imageAlt": "Cavity in a milk tooth beside a child-sized toothbrush and toy"
+  },
+  {
+    "slug": "child-toothache-when-to-call",
+    "title": "Child toothache at night: when to call a dentist",
+    "hindi": "रात में बच्चे के दाँत में दर्द: डेंटिस्ट से कब संपर्क करें",
+    "category": "Family care",
+    "image": "child-toothache-when-to-call",
+    "description": "A practical parent’s guide to describing child tooth pain, recognising urgent warning signs and arranging dental assessment.",
+    "intro": "A child waking with tooth pain needs attention to the symptoms, not a search for a guaranteed home cure. This guide helps you decide what information to give the dental team and which warning signs need emergency care.",
+    "sections": [
+      {
+        "heading": "When to seek emergency care",
+        "text": "Seek emergency medical care if swelling affects breathing, swallowing or speaking, or spreads around the eye or neck. Do not wait for a routine booking reply in these circumstances."
+      },
+      {
+        "heading": "When to contact a dentist promptly",
+        "text": "Call a dentist about pain with fever, cheek or jaw swelling, pain on biting or a bad taste. Pain that persists or does not settle with appropriate pain relief also needs assessment. Do not assume the child is only teething."
+      },
+      {
+        "heading": "While arranging assessment",
+        "text": "Offer soft food and avoid very hot, cold or sweet items that trigger discomfort. Ask a pharmacist or clinician about pain relief appropriate to the child’s age and health; children under 16 should not take aspirin. Children should not use salt-water rinses because they may swallow them. These measures do not treat the cause."
+      },
+      {
+        "heading": "What to say when you call",
+        "text": "Prepare a short account: your child’s age, where the pain seems to be, when it began and whether there is swelling or fever. Mention any medicine already given. Shakuntala Dental Clinic’s stated hours are 10:30 AM–7:00 PM daily; ask about availability directly. This is not a promise of overnight or emergency service."
+      }
+    ],
+    "questions": [
+      "Does my child need an urgent appointment?",
+      "What information about medicines should I bring?",
+      "What should we do if symptoms worsen before the visit?"
+    ],
+    "source": {
+      "title": "NHS: Toothache",
+      "url": "https://www.nhs.uk/symptoms/toothache/"
+    },
+    "published": true,
+    "imageAlt": "Parent comforting a child with toothache at night"
+  },
+  {
+    "slug": "children-brushing-toothpaste",
+    "title": "Brushing children’s teeth: toothpaste amounts and parent help",
+    "hindi": "बच्चों के दाँत कैसे साफ करें: टूथपेस्ट और माता-पिता की मदद",
+    "category": "Family care",
+    "image": "children-brushing-toothpaste",
+    "description": "Learn age-based toothpaste guidance and plan a manageable brushing routine for toddlers and children, with questions for your dentist.",
+    "intro": "Parents searching for children’s toothpaste usually need two answers: what is suitable for their child and how to use it consistently. Keep the product packaging when asking a dentist for advice so the discussion can cover the actual ingredients and fluoride concentration.",
+    "sections": [
+      {
+        "heading": "How much toothpaste?",
+        "text": "NHS guidance recommends a smear of fluoride toothpaste for children under three and a pea-sized amount from ages three to six. Under-three toothpaste should contain at least 1,000 ppm fluoride unless the dentist advises otherwise; for ages three to six, guidance specifies 1,000–1,500 ppm. Check the packaging and seek individual advice where needed."
+      },
+      {
+        "heading": "Make brushing a supported routine",
+        "text": "Start when the first milk tooth appears. Brush twice daily for about two minutes, including before bed. Parents should brush younger children’s teeth and supervise as children learn. Use a small, soft brush, help the child reach all surfaces and discourage swallowing toothpaste. Children who can spit should spit rather than rinse afterwards."
+      },
+      {
+        "heading": "When brushing becomes a daily argument",
+        "text": "Before your consultation, note the part that is difficult: holding the brush, opening the mouth, tolerating the taste or finishing the routine. Bring that specific observation instead of just saying brushing is impossible. Ask the dentist to demonstrate a comfortable approach and help you choose one manageable change."
+      },
+      {
+        "heading": "Bring a simple record to the appointment",
+        "text": "Take the toothpaste name or a photograph of its label, the brush and a description of your morning and bedtime routine. Tell the dentist who helps and whether your child reports discomfort. This makes advice more practical than choosing a product from advertising alone."
+      }
+    ],
+    "questions": [
+      "Is this toothpaste suitable for my child’s age?",
+      "Can you demonstrate how I should help?",
+      "Which part of our routine should we change first?"
+    ],
+    "source": {
+      "title": "NHS: Children’s teeth",
+      "url": "https://www.nhs.uk/live-well/healthy-teeth-and-gums/taking-care-of-childrens-teeth/"
+    },
+    "published": true,
+    "imageAlt": "Parent helping a young child brush their teeth"
+  },
+  {
+    "slug": "milk-teeth-permanent-teeth",
+    "title": "Milk teeth and permanent teeth: understanding the change",
+    "hindi": "दूध के दाँत और पक्के दाँत: बदलाव को समझें",
+    "category": "Family care",
+    "image": "milk-teeth-permanent-teeth",
+    "description": "Understand baby-tooth and permanent-tooth eruption charts and prepare useful questions when your child’s teeth begin changing.",
+    "intro": "A new tooth appearing can prompt questions about timing, space and alignment. This guide is about tooth development; it does not assume that a new tooth, a gap or a different appearance means your child needs braces.",
+    "sections": [
+      {
+        "heading": "What an eruption chart tells you",
+        "text": "The American Dental Association describes two sets of teeth: primary teeth and permanent teeth. Baby teeth generally start appearing around six months, and they are replaced at different times through childhood. Eruption charts show patterns for individual teeth rather than a single deadline for every child."
+      },
+      {
+        "heading": "Use the chart to organise questions",
+        "text": "Look at whether you are reading the baby-tooth or permanent-tooth chart. Identify the general area you are concerned about and write down what you have noticed. A chart is a starting point for discussion; it cannot show the condition of your child’s gums or the space in their mouth."
+      },
+      {
+        "heading": "A permanent tooth behind a milk tooth?",
+        "text": "Explain this observation to the dentist and ask for an examination. Useful details include when you noticed it, whether the milk tooth seems loose and whether the child has pain or trouble eating. Ask what the dentist recommends for this specific situation rather than assuming extraction is necessary."
+      },
+      {
+        "heading": "Keep development and braces questions separate",
+        "text": "At a developmental check, ask the dentist to identify the teeth involved and explain the next step. If alignment is a concern, ask whether observation, another assessment or specialist advice is appropriate. Bring earlier records so the conversation can compare changes over time."
+      }
+    ],
+    "questions": [
+      "Which teeth are milk teeth and which are permanent?",
+      "What change should we watch for next?",
+      "When should we return for a development check?"
+    ],
+    "source": {
+      "title": "American Dental Association: Eruption charts",
+      "url": "https://www.mouthhealthy.org/all-topics-a-z/eruption-charts"
+    },
+    "published": true,
+    "imageAlt": "Illustration of childhood growth and the transition from milk to permanent teeth"
   }
 ]

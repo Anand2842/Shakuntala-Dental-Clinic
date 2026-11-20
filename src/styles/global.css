@@ -89,3 +89,17 @@
 @media(max-width:600px){.gallery-photo.clinic-work>img{height:auto;aspect-ratio:4/3}}
 
 .footer-credit a{font-weight:600;text-decoration:underline;text-underline-offset:3px}
+
+/* Keep the doctor's identity clear without covering the portrait. */
+.doctor-photo{height:auto;width:100%;max-width:380px;justify-self:center;align-self:center;overflow:visible;background:#edf3f9}
+.doctor-photo>img{height:auto;aspect-ratio:4/5;object-fit:contain;border-radius:8px 8px 0 0}
+.doctor-photo figcaption{position:static;flex:none;background:#123c7a;color:#fff;padding:22px 24px;border-radius:0 0 8px 8px;display:flex;flex-direction:column;gap:6px}
+.doctor-photo figcaption strong{font-size:clamp(23px,2.4vw,30px);line-height:1.2}
+.doctor-photo figcaption span{font-size:17px;line-height:1.5;color:#d7edff}
+.section-hindi{display:block;font-size:.65em;line-height:1.65;margin-top:12px;letter-spacing:normal}
+.section-heading p .section-hindi{font-size:1em}.service-note{flex-wrap:wrap}.service-note [lang=hi]{display:block;flex-basis:100%;margin-top:6px}
+.service-detail p[lang=hi]{margin-top:12px;line-height:1.8}.service-detail .text-link{flex-wrap:wrap}.services-bottom{flex-wrap:wrap}.services-bottom .button{white-space:normal;text-align:center}
+.blog-footer a.brand{display:flex}.brand>img{object-fit:contain;flex-shrink:0}
+.service-card[open] summary{width:100%}.service-detail{position:static;display:block;padding:0 20px 24px;font-size:16px;line-height:1.7}.service-detail .text-link{margin-top:18px}.services-grid{align-items:flex-start}.service-card{align-self:stretch}.service-card .hindi{line-height:1.6}
+/* Treatment cards navigate directly to their dedicated pages. */
+.services-grid>.treatment-link{position:relative;flex:1;min-width:0;padding:18px;overflow:hidden;color:#fff;text-decoration:none;display:flex;flex-direction:column;gap:10px;min-height:350px}.services-grid>.treatment-link.extra-service{display:none}.services-grid.show-all>.treatment-link.extra-service{display:flex}.treatment-link>img{width:100%;height:180px;object-fit:contain;border-radius:10px}.services-grid>.treatment-link h3{position:static;max-width:none;padding:0;font-size:20px;line-height:1.25}.services-grid>.treatment-link .hindi{position:static}.treatment-link>p{display:block;font-size:14px;line-height:1.6}.services-grid>.treatment-link .service-learn{display:block;position:static;margin-top:auto;padding-top:12px;font-size:13px}.treatment-link .service-learn span{display:block;margin-top:6px}.treatment-link:focus-visible{outline:3px solid #12385f;outline-offset:4px}@media(max-width:600px){.services-grid>.treatment-link{min-height:0}.treatment-link>img{height:160px}}

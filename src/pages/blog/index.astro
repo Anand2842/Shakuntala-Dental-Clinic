@@ -2,7 +2,7 @@
 import BlogLayout from '../../layouts/BlogLayout.astro';
 import posts from '../../content/blogs.json';
 ---
-<BlogLayout title="Dental care guides for patients in Munger" description="Explore 20 practical guides to dental symptoms, treatment questions, daily care and planning a visit to Shakuntala Dental Clinic in Munger." draft={posts.every(p=>!p.reviewed)}>
+<BlogLayout title="Dental care guides for patients in Munger" description="Explore practical guides to dental symptoms, treatment questions, daily care and planning a visit to Shakuntala Dental Clinic in Munger." draft={posts.every(p=>!p.published)}>
 <h1 class="visually-hidden">Dental care guides</h1>
 <section class="container blog-category"><div class="blog-cards">{posts.map(post=><a class="blog-card" href={`/blog/${post.slug}/`}><img src={`/images/blog/${post.image}.webp`} alt="" width="1200" height="800" loading="lazy"/><div><h2>{post.title}</h2><p>{post.description}</p><span>Read the guide ↗</span></div></a>)}</div></section>
 </BlogLayout>

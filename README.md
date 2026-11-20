@@ -12,7 +12,7 @@ Responsive dental clinic website for **Dr. Rohan Bharti, BDS**, in **Mogal Bazar
 - One compact appointment form: name, preferred day, then WhatsApp. Availability is confirmed by clinic staff.
 - India-time date handling, with same-day requests disabled after 7 PM.
 - Doctor portrait and clinic gallery, including an enhanced working photograph.
-- Twenty separate dental education guides with sources, related articles and appointment links.
+- Twenty-four separate dental education guides with sources, related articles and appointment links.
 - Responsive layouts, bilingual labels/FAQs, sitemap, canonical metadata and Dentist structured data.
 - Official-source WhatsApp symbol and footer credit linking to [ANAND](https://anandbuild.dev/).
 
@@ -38,7 +38,7 @@ npm run preview
 npm run check
 ```
 
-This builds the website, checks static assets/navigation/SEO output, and runs six tests covering booking validation/date boundaries and all twenty blog routes. Run the build before `npm test`, because blog tests inspect generated pages.
+This builds the website, checks static assets/navigation/SEO output, and runs six tests covering booking validation/date boundaries and all twenty-four blog routes. Run the build before `npm test`, because blog tests inspect generated pages.
 
 GitHub Actions runs the same checks for pushes and pull requests to `main`.
 
@@ -48,7 +48,7 @@ GitHub Actions runs the same checks for pushes and pull requests to `main`.
 |---|---|
 | `src/data.js` | Clinic contact details, service information and treatment steps |
 | `src/pages/index.astro` | Clinic homepage |
-| `src/content/blogs.json` | Twenty educational articles and review status |
+| `src/content/blogs.json` | Twenty-four educational articles and review status |
 | `src/pages/blog/` | Article library and individual routes |
 | `src/scripts/booking.mjs` | WhatsApp message preparation and India-time date validation |
 | `public/images/` | Optimized website artwork and photographs |
@@ -58,13 +58,13 @@ Original image masters, local reference material, private hosting configuration 
 
 ## Before public launch
 
-1. Configure the final public HTTPS domain in `astro.config.mjs`. Its current preview origin has not been verified as a public production deployment. Upload `dist/` to a static host; the homepage assumes a root-domain deployment rather than a GitHub Pages project subpath.
+1. Configure the final public HTTPS domain in `astro.config.mjs`. The configured origin is https://shakuntala-dental-clinic.vercel.app; update it if the production domain changes. Upload `dist/` to a static host; the homepage assumes a root-domain deployment rather than a GitHub Pages project subpath.
 2. Confirm the address/postcode, map pin, hours, proposed services, credentials and all clinical content with the clinic. The current map links use an address search.
-3. The clinic owner has confirmed review and approved all twenty articles for publication. They have `reviewed: true`, are indexable, and are included in the sitemap.
+3. The clinic owner approved publication of the article library. Publication status is tracked separately from clinical review attribution. They have `published: true`, are indexable, and are included in the sitemap.
 4. Verify the final domain in Search Console, submit its sitemap and link the website from the existing Google Business Profile.
 5. Check mobile photo framing, accessibility, loading performance and real-device phone/WhatsApp handoffs.
 
-The website has no live availability system, patient database, analytics tracker or automatic booking confirmation. The form prepares a message on the visitor's device; the visitor sends it in WhatsApp. Google Maps loads only on request. Fonts are served by Google Fonts.
+The website has no live availability system, patient database, analytics tracker or automatic booking confirmation. The form prepares a message on the visitor's device; the visitor sends it in WhatsApp. Google Maps loads automatically on the homepage. Fonts are served by Google Fonts.
 
 ## Image and content notes
 
